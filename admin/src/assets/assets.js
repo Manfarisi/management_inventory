@@ -11,10 +11,13 @@ import cart_shopping from './cart_shopping.png'
 import circle_check from './circle_check.png'
 import square_minus from './square_minus.png'
 import house_solid from './house_solid.png'
+import labodine from './labodine.jpeg'
+
 
 
 export const assets ={
     logo,
+    labodine,
     add_icon,
     order_icon,
     profile_image,
